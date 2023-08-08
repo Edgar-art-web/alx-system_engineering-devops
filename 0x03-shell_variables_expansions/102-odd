@@ -1,2 +1,2 @@
-#1/bin/bash
+#!/bin/bash
 paaste -d, - - | cut -d, -f1
